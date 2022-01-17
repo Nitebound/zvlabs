@@ -1,0 +1,28 @@
+body {
+    background-color: black;
+	background: url(pagebg.jpg);
+    text-align: center;
+}
+
+p {
+    color: white;
+}
+
+a {
+	color: orange;
+}
+
+.navbar {
+  overflow: hidden;
+  background-color: lightgray;
+  background: url(bgtexture.jpg);
+  position: fixed; /* Set the navbar to fixed position */
+  top: 0; /* Position the navbar at the top of the page */
+  width: 100%; /* Full width */
+}
+
+.content {
+    margin-top: 140px;
+    text-align: center;
+    font-size: 20px;
+}
