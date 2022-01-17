@@ -20,6 +20,15 @@ h2 {
 	color: tan;
 }
 
+h3 {
+    border: 1px solid black; 
+    color: blue; 
+    background-color: white;
+}
+
+h4 {
+    color: white;
+}
 .navbar {
   overflow: hidden;
   background-color: lightgray;
